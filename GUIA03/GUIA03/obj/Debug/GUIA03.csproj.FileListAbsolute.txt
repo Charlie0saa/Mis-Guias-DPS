@@ -1,0 +1,13 @@
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\GUIA03\GUIA03\obj\Debug\GUIA03.csproj.AssemblyReference.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\GUIA03\GUIA03\obj\Debug\GUIA03.Facto.resources
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\GUIA03\GUIA03\obj\Debug\GUIA03.Properties.Resources.resources
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\GUIA03\GUIA03\obj\Debug\GUIA03.csproj.GenerateResource.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\GUIA03\GUIA03\obj\Debug\GUIA03.csproj.CoreCompileInputs.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\GUIA03\GUIA03\bin\Debug\GUIA03.exe.config
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\GUIA03\GUIA03\bin\Debug\GUIA03.exe
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\GUIA03\GUIA03\bin\Debug\GUIA03.pdb
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\GUIA03\GUIA03\obj\Debug\GUIA03.exe
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\GUIA03\GUIA03\obj\Debug\GUIA03.pdb
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\GUIA03\GUIA03\obj\Debug\GUIA03.Form1.resources
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\GUIA03\GUIA03\obj\Debug\GUIA03.Facto2.resources
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\GUIA03\GUIA03\obj\Debug\GUIA03.Facto3.resources
