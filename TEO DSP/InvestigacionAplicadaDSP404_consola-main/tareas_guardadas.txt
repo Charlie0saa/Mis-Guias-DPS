@@ -1,0 +1,6 @@
+Demo 1|False
+Demo 3|True
+Demo 4|False
+Demo 5|False
+Demo 7|False
+estudiar para el examen|False

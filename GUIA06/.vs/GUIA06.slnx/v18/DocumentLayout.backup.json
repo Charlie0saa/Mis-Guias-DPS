@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\DSP\\Laboratorios-DSP\\GUIA06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{535030F3-96B7-4100-92A8-5C810A45FA87}|GUIA06\\GUIA06.csproj|c:\\users\\charlie._saa\\documents\\charlie\\dsp\\laboratorios-dsp\\guia06\\guia06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{535030F3-96B7-4100-92A8-5C810A45FA87}|GUIA06\\GUIA06.csproj|solutionrelative:guia06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535030F3-96B7-4100-92A8-5C810A45FA87}|GUIA06\\GUIA06.csproj|c:\\users\\charlie._saa\\documents\\charlie\\dsp\\laboratorios-dsp\\guia06\\guia06\\clsplanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535030F3-96B7-4100-92A8-5C810A45FA87}|GUIA06\\GUIA06.csproj|solutionrelative:guia06\\clsplanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535030F3-96B7-4100-92A8-5C810A45FA87}|GUIA06\\GUIA06.csproj|c:\\users\\charlie._saa\\documents\\charlie\\dsp\\laboratorios-dsp\\guia06\\guia06\\clsempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535030F3-96B7-4100-92A8-5C810A45FA87}|GUIA06\\GUIA06.csproj|solutionrelative:guia06\\clsempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsPlanilla.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\DSP\\Laboratorios-DSP\\GUIA06\\GUIA06\\clsPlanilla.cs",
+              "RelativeDocumentMoniker": "GUIA06\\clsPlanilla.cs",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\DSP\\Laboratorios-DSP\\GUIA06\\GUIA06\\clsPlanilla.cs",
+              "RelativeToolTip": "GUIA06\\clsPlanilla.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAqwMoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T20:24:11.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\DSP\\Laboratorios-DSP\\GUIA06\\GUIA06\\clsEmpleado.cs",
+              "RelativeDocumentMoniker": "GUIA06\\clsEmpleado.cs",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\DSP\\Laboratorios-DSP\\GUIA06\\GUIA06\\clsEmpleado.cs",
+              "RelativeToolTip": "GUIA06\\clsEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T19:48:37.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\DSP\\Laboratorios-DSP\\GUIA06\\GUIA06\\Form1.cs",
+              "RelativeDocumentMoniker": "GUIA06\\Form1.cs",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\DSP\\Laboratorios-DSP\\GUIA06\\GUIA06\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUIA06\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T19:47:37.751Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

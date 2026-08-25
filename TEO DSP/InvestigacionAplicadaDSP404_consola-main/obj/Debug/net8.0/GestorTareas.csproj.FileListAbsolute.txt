@@ -1,0 +1,15 @@
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\bin\Debug\net8.0\GestorTareas.exe
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\bin\Debug\net8.0\GestorTareas.deps.json
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\bin\Debug\net8.0\GestorTareas.runtimeconfig.json
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\bin\Debug\net8.0\GestorTareas.dll
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\bin\Debug\net8.0\GestorTareas.pdb
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\obj\Debug\net8.0\GestorTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\obj\Debug\net8.0\GestorTareas.AssemblyInfoInputs.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\obj\Debug\net8.0\GestorTareas.AssemblyInfo.cs
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\obj\Debug\net8.0\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\obj\Debug\net8.0\GestorTareas.sourcelink.json
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\obj\Debug\net8.0\GestorTareas.dll
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\obj\Debug\net8.0\refint\GestorTareas.dll
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\obj\Debug\net8.0\GestorTareas.pdb
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\obj\Debug\net8.0\GestorTareas.genruntimeconfig.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\DSP\Laboratorios-DSP\TEO DSP\InvestigacionAplicadaDSP404_consola-main\obj\Debug\net8.0\ref\GestorTareas.dll
