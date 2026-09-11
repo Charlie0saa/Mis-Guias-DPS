@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<div class="container mt-5">
+    <div class="row">
+        <!-- Sección izquierda: formulario -->
+        <article class="col-md-7">
+            <h2 class="mb-4">Bienvenido</h2>
+            <p>
+                Innovando las transacciones en línea, ponemos a su disposición el cajero ATM online
+                donde podrá realizar sus pagos y transferencias de forma rápida y fácil,
+                siempre con la calidad y la confianza que nos caracterizan. Realice sus transacciones
+                desde la comodidad de su hogar las 24 horas del día, los 7 días de la semana.
+            </p>
+            @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+            {
+                <div class="mb-3">
+                    @Html.Label("sNumeroTarjeta", "Tarjeta #", new { @class = "form-label" })
+                    @Html.TextBox("sNumeroTarjeta", null, new
+                    {
+                        @class = "form-control",
+                        placeholder =
+                   "Ingrese su número de tarjeta"
+                    })
+                </div>
+                <div class="mb-3">
+                    @Html.Label("sNumeroPIN", "PIN", new { @class = "form-label" })
+                    @Html.Password("sNumeroPIN", null, new
+                    {
+                        @class = "form-control",
+                        placeholder =
+                   "Ingrese su PIN"
+                    })
+                </div>
+                @if (ViewBag.Error != null)
+                {
+                    <div class="alert alert-danger">
+                        @ViewBag.Error
+                    </div>
+                }
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-primary">Ingresar</button>
+                </div>
+            }
+        </article>
+        <!-- Sección derecha: imagen -->
+        <article class="col-md-5 text-center">
+            <img src="~/Content/images/200253863-001.jpg" class="img-fluid rounded shadow"
+                 alt="Banner cajero" />
+        </article>
+    </div>
+</div>

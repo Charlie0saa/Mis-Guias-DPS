@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{877428E8-F423-45A4-A039-A872DCAEA3A0}|GUIA07\\GUIA07.csproj|c:\\users\\charlie._saa\\documents\\charlie\\c-dsp\\laboratorios-dsp\\guia07\\guia07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{877428E8-F423-45A4-A039-A872DCAEA3A0}|GUIA07\\GUIA07.csproj|solutionrelative:guia07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877428E8-F423-45A4-A039-A872DCAEA3A0}|GUIA07\\GUIA07.csproj|c:\\users\\charlie._saa\\documents\\charlie\\c-dsp\\laboratorios-dsp\\guia07\\guia07\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877428E8-F423-45A4-A039-A872DCAEA3A0}|GUIA07\\GUIA07.csproj|solutionrelative:guia07\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877428E8-F423-45A4-A039-A872DCAEA3A0}|GUIA07\\GUIA07.csproj|c:\\users\\charlie._saa\\documents\\charlie\\c-dsp\\laboratorios-dsp\\guia07\\guia07\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877428E8-F423-45A4-A039-A872DCAEA3A0}|GUIA07\\GUIA07.csproj|solutionrelative:guia07\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877428E8-F423-45A4-A039-A872DCAEA3A0}|GUIA07\\GUIA07.csproj|c:\\users\\charlie._saa\\documents\\charlie\\c-dsp\\laboratorios-dsp\\guia07\\guia07\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877428E8-F423-45A4-A039-A872DCAEA3A0}|GUIA07\\GUIA07.csproj|solutionrelative:guia07\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877428E8-F423-45A4-A039-A872DCAEA3A0}|GUIA07\\GUIA07.csproj|c:\\users\\charlie._saa\\documents\\charlie\\c-dsp\\laboratorios-dsp\\guia07\\guia07\\usuariobiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877428E8-F423-45A4-A039-A872DCAEA3A0}|GUIA07\\GUIA07.csproj|solutionrelative:guia07\\usuariobiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA07\\GUIA07\\UsuarioBiblioteca.cs",
+              "RelativeDocumentMoniker": "GUIA07\\UsuarioBiblioteca.cs",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA07\\GUIA07\\UsuarioBiblioteca.cs",
+              "RelativeToolTip": "GUIA07\\UsuarioBiblioteca.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T20:04:47.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Revista.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA07\\GUIA07\\Revista.cs",
+              "RelativeDocumentMoniker": "GUIA07\\Revista.cs",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA07\\GUIA07\\Revista.cs",
+              "RelativeToolTip": "GUIA07\\Revista.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T20:00:12.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA07\\GUIA07\\Libro.cs",
+              "RelativeDocumentMoniker": "GUIA07\\Libro.cs",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA07\\GUIA07\\Libro.cs",
+              "RelativeToolTip": "GUIA07\\Libro.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T19:59:24.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaterialBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA07\\GUIA07\\MaterialBiblioteca.cs",
+              "RelativeDocumentMoniker": "GUIA07\\MaterialBiblioteca.cs",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA07\\GUIA07\\MaterialBiblioteca.cs",
+              "RelativeToolTip": "GUIA07\\MaterialBiblioteca.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T19:53:23.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA07\\GUIA07\\Form1.cs",
+              "RelativeDocumentMoniker": "GUIA07\\Form1.cs",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA07\\GUIA07\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUIA07\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T19:48:44.267Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

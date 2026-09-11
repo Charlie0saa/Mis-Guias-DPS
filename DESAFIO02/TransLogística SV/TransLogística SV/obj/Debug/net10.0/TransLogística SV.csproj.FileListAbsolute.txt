@@ -1,0 +1,99 @@
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\bin\Debug\net10.0\appsettings.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\bin\Debug\net10.0\TransLogística SV.staticwebassets.runtime.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\bin\Debug\net10.0\TransLogística SV.staticwebassets.endpoints.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\bin\Debug\net10.0\TransLogística SV.exe
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\bin\Debug\net10.0\TransLogística SV.deps.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\bin\Debug\net10.0\TransLogística SV.runtimeconfig.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\bin\Debug\net10.0\TransLogística SV.dll
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\bin\Debug\net10.0\TransLogística SV.pdb
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\TransLogística SV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\TransLogística SV.AssemblyInfoInputs.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\TransLogística SV.AssemblyInfo.cs
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\TransLogística SV.csproj.CoreCompileInputs.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\TransLogística SV.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\TransLogística SV.RazorAssemblyInfo.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\TransLogística SV.RazorAssemblyInfo.cs
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\TransLogística SV.sourcelink.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\scopedcss\bundle\TransLogística SV.styles.css
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\scopedcss\projectbundle\TransLogística SV.bundle.scp.css
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\kb718hr34w-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\biplu9g6o8-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\7xkehs6t9o-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\pg2v1kpg26-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\d0g9feny0g-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\y3w7ugxdq4-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\zmt3rbkwk3-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\z39guedr17-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\xt6b6p33ij-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\07jk025y2v-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\kztv7n601z-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\qakq1tbt29-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\hnx7t7grwv-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\q4zfk7ixua-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\52jqfpk8fh-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\82ld1mjhrb-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\kxayi3g17z-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\ll3qhiucpt-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\wgdmtsf4dp-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\w4lpgzycp5-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\367p114p1n-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\j0nrkuep7d-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\nvktcncnix-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\35x3lwliqy-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\hr89t5nkxs-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\31ummc5e21-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\xvs0elqxnh-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\pyftwxj8tl-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\h8p9jmpz7b-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\pyvukdz3g4-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\0qqw0k32xo-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\7ka6nv18uo-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\rezik6e3w4-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\ny2dxrzg9n-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\7b7w2kxki4-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\dzxql1540l-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\plttgwb59v-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\o0pcrhn8an-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\h6yk4rwyq3-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\sacie6vshd-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\6v6da4l3qy-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\gc9wc41aa0-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\37ve2t8sz6-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\yf5jm8fame-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\hoz49184l0-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\catshn30n2-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\vkhv83d25k-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\wc0tvz9dxi-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\6vnjkifse9-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\xmr4wvct01-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\hsboxc10n9-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\9x09okj300-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\oefy0bnymt-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\7k1jm5ujq6-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\00x471et5e-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\rntqy9f7gd-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\icuhijun74-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\r7v6hkoptj-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\ia6fam04x4-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\cbv17ypqv0-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\q1vic460o5-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\wd7gv57cxk-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\67vwmdtnvl-{0}-077hedmbyz-077hedmbyz.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\compressed\193onj097c-{0}-077hedmbyz-077hedmbyz.gz
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\TransLogística SV.dll
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\refint\TransLogística SV.dll
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\TransLogística SV.pdb
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\TransLogística SV.genruntimeconfig.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\DESAFIO02\TransLogística SV\TransLogística SV\obj\Debug\net10.0\ref\TransLogística SV.dll

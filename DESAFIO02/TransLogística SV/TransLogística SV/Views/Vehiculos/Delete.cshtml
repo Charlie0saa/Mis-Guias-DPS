@@ -1,0 +1,28 @@
+﻿@model TransLogística_SV.Models.Vehiculo
+
+@{
+    ViewData["Title"] = "Eliminar Vehículo";
+}
+
+<h2 class="my-3 text-danger">Eliminar Vehículo</h2>
+<p class="lead">¿Está seguro de que desea eliminar permanentemente este vehículo del sistema?</p>
+
+<div class="card p-4 shadow-sm border-danger" style="max-width: 600px;">
+    <dl class="row">
+        <dt class="col-sm-4">Placa</dt>
+        <dd class="col-sm-8"><strong>@Model.Placa</strong></dd>
+
+        <dt class="col-sm-4">Tipo</dt>
+        <dd class="col-sm-8">@Model.TipoVehiculo</dd>
+
+        <dt class="col-sm-4">Resumen</dt>
+        <dd class="col-sm-8">@Model.ObtenerResumen()</dd>
+    </dl>
+
+    <form asp-action="Delete" method="post">
+        <!-- Pasa la placa para saber cuál eliminar -->
+        <input type="hidden" asp-for="Placa" />
+        <button type="submit" class="btn btn-danger">Confirmar Eliminación</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>

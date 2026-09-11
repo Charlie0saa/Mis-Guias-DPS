@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|c:\\users\\charlie._saa\\documents\\charlie\\c-dsp\\laboratorios-dsp\\guia08\\guia08\\controllers\\nacionalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|solutionrelative:guia08\\controllers\\nacionalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|c:\\users\\charlie._saa\\documents\\charlie\\c-dsp\\laboratorios-dsp\\guia08\\guia08\\views\\menu\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|solutionrelative:guia08\\views\\menu\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|c:\\users\\charlie._saa\\documents\\charlie\\c-dsp\\laboratorios-dsp\\guia08\\guia08\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|solutionrelative:guia08\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|c:\\users\\charlie._saa\\documents\\charlie\\c-dsp\\laboratorios-dsp\\guia08\\guia08\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|solutionrelative:guia08\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|c:\\users\\charlie._saa\\documents\\charlie\\c-dsp\\laboratorios-dsp\\guia08\\guia08\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|solutionrelative:guia08\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|c:\\users\\charlie._saa\\documents\\charlie\\c-dsp\\laboratorios-dsp\\guia08\\guia08\\guia08.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|solutionrelative:guia08\\guia08.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|c:\\users\\charlie._saa\\documents\\charlie\\c-dsp\\laboratorios-dsp\\guia08\\guia08\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|solutionrelative:guia08\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|c:\\users\\charlie._saa\\documents\\charlie\\c-dsp\\laboratorios-dsp\\guia08\\guia08\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E03E13B7-2B5C-4FD2-B93D-1844C728E3F0}|GUIA08\\GUIA08.csproj|solutionrelative:guia08\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NacionalesController.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Controllers\\NacionalesController.cs",
+              "RelativeDocumentMoniker": "GUIA08\\Controllers\\NacionalesController.cs",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Controllers\\NacionalesController.cs",
+              "RelativeToolTip": "GUIA08\\Controllers\\NacionalesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T20:32:47.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Views\\Menu\\Menu.cshtml",
+              "RelativeDocumentMoniker": "GUIA08\\Views\\Menu\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Views\\Menu\\Menu.cshtml",
+              "RelativeToolTip": "GUIA08\\Views\\Menu\\Menu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T20:30:26.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GUIA08",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\GUIA08.csproj",
+              "RelativeDocumentMoniker": "GUIA08\\GUIA08.csproj",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\GUIA08.csproj",
+              "RelativeToolTip": "GUIA08\\GUIA08.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-04T20:16:30.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "GUIA08\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "GUIA08\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T20:28:34.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GUIA08\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GUIA08\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T20:14:13.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GUIA08\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GUIA08\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T19:56:31.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GUIA08\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GUIA08\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T19:48:43.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "transaccion.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Models\\transaccion.cs",
+              "RelativeDocumentMoniker": "GUIA08\\Models\\transaccion.cs",
+              "ToolTip": "C:\\Users\\Charlie._saa\\Documents\\CHARLIE\\C-DSP\\Laboratorios-DSP\\GUIA08\\GUIA08\\Models\\transaccion.cs",
+              "RelativeToolTip": "GUIA08\\Models\\transaccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T19:38:43.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

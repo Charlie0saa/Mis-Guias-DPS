@@ -1,0 +1,49 @@
+﻿@model IEnumerable<TransLogística_SV.Models.Vehiculo>
+
+@{
+    ViewData["Title"] = "Listado de Vehículos";
+}
+
+<h2 class="my-3">Flota de Vehículos - TransLogística SV</h2>
+
+<p>
+    <!-- Botón para ir al formulario de creación -->
+    <a asp-action="Create" class="btn btn-primary">Registrar Nuevo Vehículo</a>
+</p>
+
+<table class="table table-striped table-hover align-middle shadow-sm rounded">
+    <!-- Cambiamos table-dark por table-primary -->
+    <thead class="table-primary text-dark">
+        <tr>
+            <th>Placa</th>
+            <th>Tipo</th>
+            <th>Resumen (Marca/Modelo/Año)</th>
+            <th>Kilometraje</th>
+            <th>Costo Mantenimiento Anual</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td><strong>@item.Placa</strong></td>
+                <td>
+                    <!-- Muestra el tipo específico usando la propiedad abstracta TipoVehiculo -->
+                    <span class="badge bg-info text-dark">@item.TipoVehiculo</span>
+                </td>
+                <!-- Llama al método virtual/sobrescrito ObtenerResumen() -->
+                <td>@item.ObtenerResumen()</td>
+                <td>@item.Kilometraje.ToString("N1") km</td>
+                <!-- POLIMORFISMO EN LA VISTA: Se ejecuta la fórmula propia según la instancia real -->
+                <td><strong class="text-success">$@item.CalcularCostoMantenimiento().ToString("F2")</strong></td>
+                <td>
+                    <!-- Botones de acción enviando la Placa como parámetro -->
+                    <a asp-action="Edit" asp-route-id="@item.Placa" class="btn btn-sm btn-warning">Editar</a>
+                    <a asp-action="Details" asp-route-id="@item.Placa" class="btn btn-sm btn-info">Detalles</a>
+                    <a asp-action="Delete" asp-route-id="@item.Placa" class="btn btn-sm btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

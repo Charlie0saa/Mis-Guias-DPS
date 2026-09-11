@@ -1,0 +1,9 @@
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\GUIA07\GUIA07\bin\Debug\GUIA07.exe.config
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\GUIA07\GUIA07\bin\Debug\GUIA07.exe
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\GUIA07\GUIA07\bin\Debug\GUIA07.pdb
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\GUIA07\GUIA07\obj\Debug\GUIA07.csproj.AssemblyReference.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\GUIA07\GUIA07\obj\Debug\GUIA07.Properties.Resources.resources
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\GUIA07\GUIA07\obj\Debug\GUIA07.csproj.GenerateResource.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\GUIA07\GUIA07\obj\Debug\GUIA07.csproj.CoreCompileInputs.cache
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\GUIA07\GUIA07\obj\Debug\GUIA07.exe
+C:\Users\Charlie._saa\Documents\CHARLIE\C-DSP\Laboratorios-DSP\GUIA07\GUIA07\obj\Debug\GUIA07.pdb
