@@ -37,11 +37,18 @@
                 <td>@item.Kilometraje.ToString("N1") km</td>
                 <!-- POLIMORFISMO EN LA VISTA: Se ejecuta la fórmula propia según la instancia real -->
                 <td><strong class="text-success">$@item.CalcularCostoMantenimiento().ToString("F2")</strong></td>
-                <td>
-                    <!-- Botones de acción enviando la Placa como parámetro -->
-                    <a asp-action="Edit" asp-route-id="@item.Placa" class="btn btn-sm btn-warning">Editar</a>
-                    <a asp-action="Details" asp-route-id="@item.Placa" class="btn btn-sm btn-info">Detalles</a>
-                    <a asp-action="Delete" asp-route-id="@item.Placa" class="btn btn-sm btn-danger">Eliminar</a>
+                <td class="text-nowrap text-end">
+                    <div class="btn-group" role="group" aria-label="Acciones de vehículo">
+                        <a asp-action="Edit" asp-route-id="@item.Placa" class="btn btn-sm btn-outline-warning">
+                            Editar
+                        </a>
+                        <a asp-action="Details" asp-route-id="@item.Placa" class="btn btn-sm btn-outline-info">
+                            Detalles
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@item.Placa" class="btn btn-sm btn-outline-danger">
+                            Eliminar
+                        </a>
+                    </div>
                 </td>
             </tr>
         }

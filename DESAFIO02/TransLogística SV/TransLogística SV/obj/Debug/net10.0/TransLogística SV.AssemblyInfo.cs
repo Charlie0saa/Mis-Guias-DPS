@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TransLogística SV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25398d5962d820b45f915663ea8ede8b97662ce0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f235a9bd377d6c98c2dedb3d5ff22cb4f7e1e545")]
 [assembly: System.Reflection.AssemblyProductAttribute("TransLogística SV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TransLogística SV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
